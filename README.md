@@ -79,25 +79,17 @@ Personal portfolio built with Next.js.
 
 <p>
 
-<a href="https://t.me/YOUR_TELEGRAM">
+<a href="https://t.me/obxrz7">
 <img src="https://img.shields.io/badge/Telegram-29A9EA?style=for-the-badge&logo=telegram"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/behruz-obidov-a69a793ab/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:obehruz717@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
-
-</p>
-
----
-
-<p align="center">
-
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge)
 
 </p>
 
