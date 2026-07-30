@@ -13,8 +13,12 @@ Building modern web applications with clean code and scalable architecture.
 <p align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Next.js+Developer;React+%26+React+Native;Python+Developer;PostgreSQL;Always+Learning+New+Things"/>
+
 </p>
-## 🚀 About Me
+
+---
+
+# 🚀 About Me
 
 - 💻 Full Stack Developer
 - 🌍 Based in Uzbekistan
