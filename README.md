@@ -63,7 +63,7 @@ Building modern web applications with clean code and scalable architecture.
 
 ### 🏗 Central Beton
 
-Modern website for a concrete manufacturing company.
+Modern website for a concrete manufacturing company. [NOT FINISHED YET]
 
 ### 🛠 Usta
 
