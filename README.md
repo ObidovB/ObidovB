@@ -54,8 +54,8 @@ Building modern web applications with clean code and scalable architecture.
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-![AI](https://img.shields.io/badge/AI-Artificial%20Intelligence-brightgreen)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+![AI](https://img.shields.io/badge/AI-Artificial%20Intelligence-brightgreen)
 
 ---
 
